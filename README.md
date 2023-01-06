@@ -1,4 +1,4 @@
-## Link manage build with Python3 + Django + React
+## Links manager build with Python3 + Django + React
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/84200694/210902594-24d57969-9c53-4d56-b3c3-694b5a19cddd.gif)
 
